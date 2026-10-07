@@ -27,3 +27,7 @@ Bernardo Manuel Maciel Pérez
 - Python
 - Git
 - GitHub
+
+## Estado del proyecto
+
+Prototipo inicial.
